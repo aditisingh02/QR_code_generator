@@ -4,7 +4,8 @@
 
 The QR Code Generator is a simple web application that allows users to create QR codes for various purposes. Users can input text, URLs, or other data, and the app generates a scannable QR code image. 
 
-![image](https://github.com/aditisingh02/QR_code_generator/assets/140513260/425c8f9c-1b97-4c04-9f87-1af36eee8a0f)
+![image](https://github.com/aditisingh02/QR_code_generator/assets/140513260/aa676e1a-6271-43a6-8d83-fb4ff6d7bb05)
+
 
 <h3>✨Acknowledgments</h3>
 https://goqr.me/api/

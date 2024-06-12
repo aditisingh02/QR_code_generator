@@ -7,7 +7,7 @@ The QR Code Generator is a simple web application that allows users to create QR
 
 
 
-<h3>✨Acknowledgmnts</h3>
+<h3>✨Acknowledgments</h3>
 https://goqr.me/api/
 
 <h3 align="left">💻 Languages Used</h3>
